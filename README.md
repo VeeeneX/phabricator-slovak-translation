@@ -159,4 +159,5 @@ Set `maniphest.statuses` to:
 }
 ```
 
-Set `metamta.maniphest.subject-prefix` to 'Manifest'
+Set `metamta.maniphest.subject-prefix` to `[Manifest]`
+Set `metamta.conpherence.subject-prefix` to `[Konferencia]`
